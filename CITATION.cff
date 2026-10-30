@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the versioned Zenodo dataset when using these data or replay methods."
+title: "Data-Center Synchrophasor Frequency-Set Benchmark: ParaEMT Waveforms and Estimator Replay"
+type: dataset
+authors:
+  - family-names: Shamseldein
+    given-names: Mohamed
+    orcid: "https://orcid.org/0000-0001-9062-2329"
+version: 1.0.0
+date-released: 2026-10-30
+repository-code: "https://github.com/mshams8/datacenter-pmu-frequency-sets"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.23808827"

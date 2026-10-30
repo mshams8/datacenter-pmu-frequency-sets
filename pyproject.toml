@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "datacenter-pmu-frequency-sets"
+version = "1.0.0"
+description = "Simulated synchrophasor benchmark and estimator-specific frequency-set replay"
+requires-python = ">=3.11"
+dependencies = ["numpy", "scipy", "pandas", "pydantic>=2", "matplotlib"]
+license = "BSD-3-Clause"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

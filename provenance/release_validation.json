@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "python": "3.11.9",
+  "tests_passed": 25,
+  "scientific_tables_compared": 18,
+  "noise_trials": 76800,
+  "native_cases": 104,
+  "pmu_views": 384,
+  "high_rate_cases": 8,
+  "scope": "Replay from exported saved numerical data; no new physical simulations",
+  "excluded": [
+    "confidential field records",
+    "third-party field datasets",
+    "review correspondence",
+    "manuscript drafts",
+    "solver pickle objects"
+  ]
+}

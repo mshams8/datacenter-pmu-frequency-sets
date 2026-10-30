@@ -1,0 +1,74 @@
+{
+  "nominal_decisions": {
+    "rows": 384,
+    "status": "pass"
+  },
+  "nominal_summary": {
+    "rows": 6,
+    "status": "pass"
+  },
+  "network_design": {
+    "rows": 12,
+    "status": "pass"
+  },
+  "noise_decisions": {
+    "rows": 76800,
+    "status": "pass"
+  },
+  "noise_summary": {
+    "rows": 60,
+    "status": "pass"
+  },
+  "noise_cluster_intervals": {
+    "rows": 60,
+    "status": "pass"
+  },
+  "noise_only_summary": {
+    "rows": 6,
+    "status": "pass"
+  },
+  "threshold_design": {
+    "rows": 140,
+    "status": "pass"
+  },
+  "threshold_summary": {
+    "rows": 70,
+    "status": "pass"
+  },
+  "waveform_decisions": {
+    "rows": 2064,
+    "status": "pass"
+  },
+  "waveform_design": {
+    "rows": 6,
+    "status": "pass"
+  },
+  "waveform_summary": {
+    "rows": 111,
+    "status": "pass"
+  },
+  "native_decisions": {
+    "rows": 624,
+    "status": "pass"
+  },
+  "native_design": {
+    "rows": 12,
+    "status": "pass"
+  },
+  "native_summary": {
+    "rows": 36,
+    "status": "pass"
+  },
+  "new_paraemt_decisions": {
+    "rows": 240,
+    "status": "pass"
+  },
+  "new_paraemt_summary": {
+    "rows": 30,
+    "status": "pass"
+  },
+  "native_rate_comparison": {
+    "rows": 16,
+    "status": "pass"
+  }
+}
